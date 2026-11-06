@@ -1,0 +1,64 @@
+{
+  "ok": true,
+  "atlas": "spritesheet.png",
+  "encoded_bytes": 2354348,
+  "sha256": "73a51251e274322a4ece95551ad42f812ba0252a00686afc5cd79c07fc5bfe44",
+  "jump": {
+    "idle_baseline": 202,
+    "jump_baselines": [
+      202,
+      202,
+      174,
+      187,
+      202
+    ],
+    "airborne_lift_pixels": 28,
+    "landing_delta_pixels": 0
+  },
+  "look_registration": {
+    "neutral_center_x": 95.5,
+    "look_centers_x": [
+      95.0,
+      96.5,
+      96.0,
+      96.0,
+      95.5,
+      95.5,
+      95.5,
+      95.5,
+      94.0,
+      96.0,
+      96.0,
+      95.5,
+      95.0,
+      95.0,
+      95.0,
+      95.5
+    ],
+    "look_widths": [
+      90,
+      87,
+      86,
+      86,
+      85,
+      85,
+      85,
+      83,
+      88,
+      86,
+      86,
+      85,
+      86,
+      86,
+      86,
+      87
+    ],
+    "maximum_center_drift_pixels": 1.5,
+    "maximum_width_ratio": 1.0843373493975903
+  },
+  "errors": [],
+  "warnings": [
+    "look direction 157.5 accepted with a reviewed warning",
+    "look direction 202.5 accepted with a reviewed warning"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "紫玲（清晰）",
+  "slug": "ziling-clear",
+  "description": "白发紫瞳的龙角女仆，明亮紫色服装与白皙肤色，陪你专注工作。",
+  "spritesheet": "spritesheet.png",
+  "reference": "reference.png",
+  "sprite_version": 2,
+  "width": 1536,
+  "height": 2288,
+  "cell_width": 192,
+  "cell_height": 208,
+  "columns": 8,
+  "rows": 11,
+  "frames_per_row": [
+    6,
+    8,
+    8,
+    4,
+    5,
+    8,
+    6,
+    6,
+    6,
+    8,
+    8
+  ],
+  "required_frames": 73,
+  "transparent_unused_cells": 15,
+  "sha256": "73a51251e274322a4ece95551ad42f812ba0252a00686afc5cd79c07fc5bfe44",
+  "generation": "OpenAI built-in image generation; deterministic extraction, assembly and validation.",
+  "review_notes": [
+    "157.5°、202.5° 接近向下，左右偏转较细微；已结合有标签循环复核并保留警告。"
+  ],
+  "metadata_format": "Repository asset manifest, not an application installer."
+}
